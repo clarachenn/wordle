@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=boolean\ hasLives()
+comment3.params=
+comment3.target=void\ loseLife()
+numComments=4
